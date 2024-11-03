@@ -43,7 +43,7 @@
     "@changesets/changelog-github": "^0.3.0",
     "@changesets/cli": "^2.14.1",
     "@manypkg/cli": "^0.17.0",
-    "@preconstruct/cli": "^2.0.1",
+    "@preconstruct/cli": "^2.8.9",
     "@testing-library/dom": "^7.30.0",
     "@testing-library/jest-dom": "^5.11.9",
     "@types/jest": "^26.0.20",
