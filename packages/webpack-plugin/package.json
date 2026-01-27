@@ -29,11 +29,11 @@
     "webpack": "^4.30.0 || ^5.20.2"
   },
   "dependencies": {
-    "@vanilla-extract/integration": "^1.0.0",
+    "@vanilla-extract/integration": "^0.1.0",
     "chalk": "^4.1.1",
     "debug": "^4.3.1",
     "loader-utils": "^2.0.0",
-    "lodash": "^4.17.21",
+    "lodash": "^4.17.23",
     "virtual-resource-loader": "^1.0.0"
   },
   "devDependencies": {
