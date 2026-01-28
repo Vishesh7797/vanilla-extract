@@ -22,7 +22,7 @@
     "eval": "^0.1.6",
     "find-up": "^5.0.0",
     "javascript-stringify": "^2.0.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@types/dedent": "^0.7.0",
